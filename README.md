@@ -64,7 +64,7 @@ The project is designed to run in Google Colab. The workflow consists of two not
 ## Paper
 
 The final research paper is available in the `/report` directory:
-* Davis_Spencer_Analyzing_Structural_and_Stylistic_Fingerprints_in_AI_Text.pdf
+* Davis_Spencer_Analyzing_Structural_Stylistic_AI_Fingerprints.pdf
 
 ## Contact
 
